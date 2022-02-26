@@ -6,7 +6,7 @@
 
 ## Stats
 
-<a href="https://github.com/CydnAkif/ydnAkif">
+<a href="https://github.com/ydnAkif/ydnAkif">
 	<img
 		 align="center"
 		 src="https://github-readme-stats.vercel.app/api?username=ydnAkif&theme=gruvbox&line_height=27&show_icons=true&count_private=true"
@@ -16,7 +16,7 @@
 <a href="https://github.com/ydnAkif/ydnAkif">
 	<img
 		 align="center"
-		 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&theme=gruvbox&langs_count=5"
+		 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&theme=gruvbox&langs_count=4"
 		 alt="ydnAkif's Top Languages"/>
 </a>
 
