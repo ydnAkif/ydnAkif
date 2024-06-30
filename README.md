@@ -16,7 +16,7 @@
 <a href="https://github.com/ydnAkif/ydnAkif">
 	<img
 		 align="center"
-		 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&theme=gruvbox&langs_count=3"
+		 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&theme=gruvbox&langs_count=4"
 		 alt="ydnAkif's Top Languages"/>
 </a>
 
