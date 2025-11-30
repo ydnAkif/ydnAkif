@@ -1,26 +1,31 @@
-- 👋 Hi, I’m @ydnAkif
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on anyone 
-- 📫 How to reach me akifaydin52@gmail.com
+<h1 align="center">Hi 👋, I'm Akif</h1>
+<h3 align="center">A C++ enthusiast & aspiring systems developer</h3>
 
-## Stats
+---
 
-<a href="https://github.com/ydnAkif/ydnAkif">
-	<img
-		 align="center"
-		 src="https://github-readme-stats.vercel.app/api?username=ydnAkif&theme=gruvbox&line_height=27&show_icons=true&count_private=true"
-		 alt="ydnAkif's GitHub Stats"/>
-</a>
+### 🌟 About Me
+- 👀 I’m interested in **C++**, low-level programming and system design  
+- 🌱 I’m currently learning **C++**  
+- 🤝 I’m open to collaborating on open-source projects  
+- 📫 How to reach me: **akifaydin52@gmail.com**
 
-<a href="https://github.com/ydnAkif/ydnAkif">
-	<img
-		 align="center"
-		 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&theme=gruvbox&langs_count=4"
-		 alt="ydnAkif's Top Languages"/>
-</a>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ydnAkif&show_icons=true&theme=gruvbox&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&layout=compact&theme=gruvbox&langs_count=6" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,linux,vscode,clion&theme=dark" />
+</p>
+
+---
 
 <!---
-ydnAkif/ydnAkif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+This repository is a special one because it's the profile README.
 --->
