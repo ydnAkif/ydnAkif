@@ -11,13 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ydnAkif&show_icons=true&theme=gruvbox&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydnAkif&layout=compact&theme=gruvbox&langs_count=6" />
-</p>
-
----
 
 ## 🛠️ Languages & Tools
 <p align="left">
